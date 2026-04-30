@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://marcus-eletricista.github.io/marcus-eletricista/sitemap.xml
