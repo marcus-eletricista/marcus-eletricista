@@ -389,6 +389,7 @@ h3 {
 .photo-placeholder {
     position: relative;
     min-height: 280px;
+    min-width: 280px;
     overflow: hidden;
     background:
     linear-gradient(135deg, rgba(18, 32, 51, 0.15), rgba(31, 111, 156, 0.2)),
