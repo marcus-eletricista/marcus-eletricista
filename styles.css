@@ -410,6 +410,7 @@ h3 {
 }
 
 .photo-two {
+    height:280px;
     background:
     linear-gradient(135deg, rgba(18, 32, 51, 0.12), rgba(167, 215, 202, 0.34)),
     radial-gradient(circle at 78% 26%, rgba(242, 200, 75, 0.65), transparent 15%),
